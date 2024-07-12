@@ -1,3 +1,6 @@
 open.pub
 open
 target/
+hubgit 
+hubgit.pub
+cargo.toml
